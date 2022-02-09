@@ -1,5 +1,5 @@
 import React from 'react';
-import alloy from 'alloy';
+import alloy from '@alloyidentity/web-sdk';
 import './App.css';
 
 const alloyInitParams = {
